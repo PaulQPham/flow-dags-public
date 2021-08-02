@@ -8,7 +8,7 @@
         "dataSource": "SOURCE",
         "interval": "2010-01-01/2025-12-01"
       },
-      "appendToExisting": true
+      "appendToExisting": false
     },
     "tuningConfig": {
       "type": "index_parallel",
